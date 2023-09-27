@@ -5,7 +5,7 @@ If you want to know more about me, visit my Linkedin profile here 👉 <a rel="m
 
 This is my secret spot where I use to learn new skills and test new knowledge within IT area 📚💻  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusM241&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusM241&layout=compact&theme=radical)
 
 ---
 
